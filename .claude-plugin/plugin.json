@@ -1,0 +1,10 @@
+{
+  "name": "second-nature",
+  "version": "0.1.0",
+  "description": "Claude Code that grows with you: mines your own session history for repeated work, drafts skills from it, and keeps your skill library curated — with you as the approval gate.",
+  "author": {
+    "name": "Mohammad Musa",
+    "url": "https://github.com/mmusa"
+  },
+  "license": "MIT"
+}
